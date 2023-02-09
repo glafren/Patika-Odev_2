@@ -1,0 +1,84 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+width: 100%;
+height: 100%;
+margin: 250px auto 0;
+background-color: white;
+}
+
+.logo-orta{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.search{
+    text-align: center;
+}
+.button-setting{
+    background-color: #f8f9fa;
+    border:none;
+    border-radius: 4px;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+button:hover{
+    background-color: #f8f9fa;
+    border: 1px solid #6d6d6d;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+.footer{
+    background-color: #f2f2f2; 
+    width: 100%;
+    height: 50px;
+}
+.location{
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 14px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:grey;
+}
+.tr-margin{
+    margin-left: 30px;
+    color: #70757a;
+    padding-top: 5px;
+}
+th{padding-right: 15px;}
+
+a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #70757a;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.altsagmenu{
+    float: right;
+}
